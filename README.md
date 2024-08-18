@@ -61,7 +61,7 @@ As a **Front-end Developer**, I’m obsessed with crafting **pixel-perfect** des
 <a href="mailto:robert.babinski95@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/username/" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/robert-babinski/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://twitter.com/banankiem" target="_blank" style="text-decoration: none;">
