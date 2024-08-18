@@ -55,16 +55,16 @@ As a **Front-end Developer**, I’m obsessed with crafting **pixel-perfect** des
 ---
 
 ## 🌐 Connect with Me
-<a href="https://robertbabinski.me" target="_blank">
+<a href="https://robertbabinski.me" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:robert.babinski95@gmail.com">
+<a href="mailto:robert.babinski95@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/username/" target="_blank">
+<a href="https://www.linkedin.com/in/username/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/banankiem" target="_blank">
+<a href="https://twitter.com/banankiem" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X" />
 </a>
   
