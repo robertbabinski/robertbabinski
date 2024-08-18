@@ -42,6 +42,7 @@ As a **Front-end Developer**, I’m obsessed with crafting **pixel-perfect** des
 ### Additionals
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=FFFFFF)
+![Zod](https://img.shields.io/badge/-Zod-000000?style=flat&logo=zod&logoColor=FFFFFF)
 
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=FFFFFF)
 ![Webflow](https://img.shields.io/badge/-Webflow-000000?style=flat&logo=webflow&logoColor=FFFFFF)
