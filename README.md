@@ -2,7 +2,7 @@
 
 As a **Front-end Developer**, I’m obsessed with crafting **pixel-perfect** designs and creating stunning **animations** that make interfaces come alive. My previous life as an **archeologist** (yes, really! 🏺) might seem like a plot twist, but it’s given me a unique eye for detail and an adventurous spirit in problem-solving.
 
-🌱 **Currently**, I’m diving into **Three.js**, **GSAP**, and **Framer Motion** to push the limits of web animations and interactive experiences — because making things move and sparkle is my jam.
+🌱 **Currently**, I’m diving into **Three.js**, **GSAP**, and **Motion** to push the limits of web animations and interactive experiences — because making things move and sparkle is my jam.
 
 🎮 **When I’m off the clock**, you can find me delving into **GameDev** with **Unreal Engine**, enjoying long walks with my beloved Shih-Tzu **Boni**, watching series or planning my next great escape.
 
@@ -20,21 +20,18 @@ As a **Front-end Developer**, I’m obsessed with crafting **pixel-perfect** des
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FFFFFF)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=FFFFFF)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vuedotjs&logoColor=FFFFFF)
-![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=FFFFFF)
 
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=FFFFFF)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zustand&logoColor=FFFFFF)
 
 ![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook&logoColor=FFFFFF)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=flat&logo=framer&logoColor=FFFFFF)
+![Motion](https://img.shields.io/badge/-Motion-000000?style=flat&logo=motion&logoColor=FFFFFF)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=threedotjs&logoColor=FFFFFF)
 ![GSAP](https://img.shields.io/badge/-GSAP-000000?style=flat&logo=greensock&logoColor=FFFFFF)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=FFFFFF)
-![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs&logoColor=FFFFFF)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=FFFFFF)
 ![Supabase](https://img.shields.io/badge/-supabase-000000?style=flat&logo=supabase&logoColor=FFFFFF)
