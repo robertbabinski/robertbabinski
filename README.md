@@ -4,9 +4,9 @@ I'm Robert, a **Senior Frontend Engineer** focused on building scalable web plat
 
 My work sits at the intersection of **frontend architecture**, **performance**, **CMS-driven delivery**, **design systems** and **implementation quality**. I enjoy turning complex business and product needs into maintainable, user-focused solutions that feel refined in both structure and execution.
 
-Before moving fully into tech, I studied **archaeology** — which shaped a lot of how I work today: curiosity, research-first thinking and attention to detail.
+Before moving fully into tech, I studied **archaeology** - which shaped a lot of how I work today: curiosity, research-first thinking and attention to detail.
 
-🌱 Lately, I’ve been exploring ways to build more interactive user experiences, push the possibilities of 3D on the web and dive deeper into web performance optimization.
+🌱 Lately, I’ve been exploring the possibilities of 3D on the web and diving deeper into web performance optimization.
 
 ---
 
