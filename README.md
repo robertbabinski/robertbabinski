@@ -1,54 +1,57 @@
-# Hi there 👋, I'm Robert!
+# Hi there 👋
 
-As a **Front-end Developer**, I’m obsessed with crafting **pixel-perfect** designs and creating stunning **animations** that make interfaces come alive. My previous life as an **archeologist** (yes, really! 🏺) might seem like a plot twist, but it’s given me a unique eye for detail and an adventurous spirit in problem-solving.
+I'm Robert, a **Senior Frontend Engineer** focused on building scalable web platforms, digital products and polished user experiences with **React**, **Next.js** and **TypeScript**.
 
-🌱 **Currently**, I’m diving into **Three.js**, **GSAP**, and **Motion** to push the limits of web animations and interactive experiences — because making things move and sparkle is my jam.
+My work sits at the intersection of **frontend architecture**, **performance**, **CMS-driven delivery**, **design systems** and **implementation quality**. I enjoy turning complex business and product needs into maintainable, user-focused solutions that feel refined in both structure and execution.
 
-🎮 **When I’m off the clock**, you can find me delving into **GameDev** with **Unreal Engine**, enjoying long walks with my beloved Shih-Tzu **Boni**, watching series or planning my next great escape.
+Before moving fully into tech, I studied **archaeology** — which shaped a lot of how I work today: curiosity, research-first thinking and attention to detail.
+
+🌱 Lately, I’ve been exploring ways to build more interactive user experiences, push the possibilities of 3D on the web and dive deeper into web performance optimization.
 
 ---
 
 ## 🛠️ Tech Stack & Toolset
 
-### Frontend Development
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=FFFFFF)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=FFFFFF)
-![SCSS](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=FFFFFF)
-
+### Core Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FFFFFF)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=FFFFFF)
+![SCSS](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass&logoColor=FFFFFF)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-000000?style=flat&logo=styledcomponents&logoColor=FFFFFF)
 
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=FFFFFF)
+### State, Data & Validation
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zustand&logoColor=FFFFFF)
-
-![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook&logoColor=FFFFFF)
-![Motion](https://img.shields.io/badge/-Motion-000000?style=flat&logo=motion&logoColor=FFFFFF)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=threedotjs&logoColor=FFFFFF)
-![GSAP](https://img.shields.io/badge/-GSAP-000000?style=flat&logo=greensock&logoColor=FFFFFF)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=FFFFFF)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=FFFFFF)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/-supabase-000000?style=flat&logo=supabase&logoColor=FFFFFF)
-
-### Additionals
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=FFFFFF)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=FFFFFF)
+![React Query](https://img.shields.io/badge/-React_Query-000000?style=flat&logo=reactquery&logoColor=FFFFFF)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-000000?style=flat&logo=reacthookform&logoColor=FFFFFF)
 ![Zod](https://img.shields.io/badge/-Zod-000000?style=flat&logo=zod&logoColor=FFFFFF)
 
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=FFFFFF)
+### CMS / Platforms
+![Payload CMS](https://img.shields.io/badge/-Payload_CMS-000000?style=flat&logo=Payload-CMS&logoColor=FFFFFF)
+![Sanity](https://img.shields.io/badge/-Sanity-000000?style=flat&logo=sanity&logoColor=FFFFFF)
+![Hygraph](https://img.shields.io/badge/-Hygraph-000000?style=flat&logo=hygraph&logoColor=FFFFFF)
 ![Webflow](https://img.shields.io/badge/-Webflow-000000?style=flat&logo=webflow&logoColor=FFFFFF)
 ![Framer](https://img.shields.io/badge/-Framer-000000?style=flat&logo=framer&logoColor=FFFFFF)
 
-![Payload CMS](https://img.shields.io/badge/-Payload_CMS-000000?style=flat&logo=Payload-CMS&logoColor=FFFFFF)
-![Hubspot](https://img.shields.io/badge/-Hubspot-000000?style=flat&logo=hubspot&logoColor=FFFFFF)
-![Sanity](https://img.shields.io/badge/-Sanity-000000?style=flat&logo=sanity&logoColor=FFFFFF)
-![Hygraph](https://img.shields.io/badge/-Hygraph-000000?style=flat&logo=hygraph&logoColor=FFFFFF)
+### Quality / Tooling
+![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook&logoColor=FFFFFF)
+![Vitest](https://img.shields.io/badge/-Vitest-000000?style=flat&logo=vitest&logoColor=FFFFFF)
+![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat&logo=playwright&logoColor=FFFFFF)
+![Turborepo](https://img.shields.io/badge/-Turborepo-000000?style=flat&logo=turborepo&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000000?style=flat&logo=githubactions&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=FFFFFF)
+
+### Motion / 3D / Design
+![Motion](https://img.shields.io/badge/-Motion-000000?style=flat&logo=motion&logoColor=FFFFFF)
+![GSAP](https://img.shields.io/badge/-GSAP-000000?style=flat&logo=greensock&logoColor=FFFFFF)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=threedotjs&logoColor=FFFFFF)
+![React Three Fiber](https://img.shields.io/badge/-React_Three_Fiber-000000?style=flat&logo=threedotjs&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=FFFFFF)
+![Rive](https://img.shields.io/badge/-Rive-000000?style=flat&logo=rive&logoColor=FFFFFF)
+![Spline](https://img.shields.io/badge/-Spline-000000?style=flat&logo=spline&logoColor=FFFFFF)
 
 ---
 
@@ -65,4 +68,3 @@ As a **Front-end Developer**, I’m obsessed with crafting **pixel-perfect** des
 <a href="https://twitter.com/banankiem" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X" />
 </a>
-  
