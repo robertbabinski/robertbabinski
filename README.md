@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Robert, a **Senior Frontend Engineer** focused on building scalable web platforms, digital products and polished user experiences with **React**, **Next.js** and **TypeScript**.
+I'm Robert, a **Frontend Engineer** focused on building scalable web platforms, digital products and polished user experiences with **React**, **Next.js** and **TypeScript**.
 
 My work sits at the intersection of **frontend architecture**, **performance**, **CMS-driven delivery**, **design systems** and **implementation quality**. I enjoy turning complex business and product needs into maintainable, user-focused solutions that feel refined in both structure and execution.
 
